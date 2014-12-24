@@ -1,9 +1,9 @@
 [submodule "www/js/spiffy"]
 	path = www/js/spiffy
-	url = https://github.com:eddieantonio/spiffy.git
+	url = https://github.com/eddieantonio/spiffy.git
 [submodule "www/js/flot"]
 	path = www/js/flot
-	url = https://github.com:flot/flot.git
+	url = https://github.com/flot/flot.git
 [submodule "www/js/flot-axislabels"]
 	path = www/js/flot-axislabels
-	url = https://github.com:markrcote/flot-axislabels.git
+	url = https://github.com/markrcote/flot-axislabels.git
